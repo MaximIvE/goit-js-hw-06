@@ -9,7 +9,7 @@ function nickname(){
     if(refs.inputEl.value === ""){
         refs.spanEl.textContent = "Anonymous";
     } else{
-        refs.spanEl.textContent = refs.inputEl.value 
+        refs.spanEl.textContent = refs.inputEl.value;
     }
 };
 
