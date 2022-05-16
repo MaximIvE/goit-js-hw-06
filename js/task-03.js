@@ -13,9 +13,6 @@ const images = [
   },
 ];
 
-
-// const listEl = document.createElement("li");
-
 const createList = ({url, alt}) =>{
   const imgEl = document.createElement("img");
   imgEl.classList = "img__gallery";
