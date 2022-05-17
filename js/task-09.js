@@ -18,3 +18,5 @@ function setColor(){
 };
 
 buttonColor.addEventListener("click", setColor);
+
+// console.dir(bodyEl);
