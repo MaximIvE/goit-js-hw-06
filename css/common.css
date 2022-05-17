@@ -23,6 +23,7 @@ button {
   cursor: pointer;
 }
 
+/* Це для звдання з картинками */
 .gallery{
   list-style: none;
   display: flex;
